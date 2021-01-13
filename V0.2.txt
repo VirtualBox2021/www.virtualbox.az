@@ -1,0 +1,6 @@
+V0.2 -- 12.01.2020
+ - Menyu bolmesi uzre telefonda yaranan problemler aradan qaldirildi
+ - Google, Yandex, Yahoo (browser) bolmesi uzre telefonda yaranan problemler aradan qaldirildi
+ 
+
+ === VERSIYANIN ADI __ RESPONSIVE SISTEM GUNCELLEMESI

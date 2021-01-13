@@ -1,0 +1,8 @@
+V0.3 -- 16.01.2020
+ - www.virtualbox.az saytinda olan yazilar META    (charset) unvanina esasen Latin herfleri ile      techiz olundu  
+ - Azerbaycan dili hissesi elave olundu  
+ - Bir sira kicik problemler aradan qaldirildi
+ - Guncelleme qeydleri sehifesi yaradildi  
+ - Google axtarix matoru sisteme elave olundu  
+ 
+ === VERSIYANIN ADI __ DIL SISTEMI GUNCELLEMESI V1.0

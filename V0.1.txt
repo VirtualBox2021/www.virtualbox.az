@@ -1,0 +1,6 @@
+V0.1 -- 11.01.2020
+ - Beta versiya yayimlandi
+ - Sayt WWW.() bazasinda qisa muddetlik domenle paylasildi
+ - Qanuni olaraq Google bazasina yerlesdirildi
+
+ === VERSIYANIN ADI __ BETA VERSIYANIN YAYIMI

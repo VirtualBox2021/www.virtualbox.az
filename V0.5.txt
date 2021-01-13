@@ -1,0 +1,6 @@
+V0.5 -- 30.01.2020
+ - Kitabxana bolmesi aktiv edildi
+ - Saytin dizayninda bezi deyisikliklere    gedildi
+ - Bir sira problemler aradan qaldirildi
+
+  === VERSIYANIN ADI __ DRAKULA              GUNCELLEMESI V1.0
